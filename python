@@ -1,0 +1,6 @@
+
+
+
+In above example we used two %s string format specifier and two strings Hello and World in parenthesis (). We got Hello World as output. %s string format specifier tell Python where to substitute the value.
+
+String formatting syntax changes slightly, if we want to make multiple substitutions in a single string, and as the % operator only takes one argument, we need to wrap the right-hand side in a tuple as shown in the example below.
